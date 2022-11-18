@@ -1,5 +1,4 @@
 <h2> Naive Bayes </h2>
-<img src="https://avatars.githubusercontent.com/u/66366306?s=100&u=dc5e6f5b4a05d07958d9a867b803760aa2b1613e&v=4">
 <h3> Naive Bayes Algorithm From Scratch </h3>
 <img src="https://i.imgur.com/qHAcfhX.gif">
 <h3> Setup The Project </h3>
